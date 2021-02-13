@@ -1,0 +1,14 @@
+Brimstone, Controller
+Pheonix, Duelist
+Sage, Sentinel
+Sova, Initiator
+Viper, Controller
+Cyper, Sentinel
+Reyna, Duelist
+Killjoy, Sentinel
+Breach, Initiator
+Omen, Controller
+Jett, Duelist
+Raze, Duelist
+Skye, Initiator
+Yoru, Duelist

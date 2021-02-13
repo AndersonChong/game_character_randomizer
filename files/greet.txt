@@ -1,0 +1,4 @@
+These are commands that can be used:
+```ply help           : the user manual
+ply [game]         : generate a random agent
+ply [game] [role] : generate a random agent based on roles```

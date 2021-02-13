@@ -1,0 +1,17 @@
+Supported games with respective roles:
+```valorant - duelist, initiator, controller, sentinel```
+Generate random agent/hero:
+```ply [game]
+e.g. ply valorant```
+Generate random agent/hero based on role:
+```ply [game] [role]
+e.g. ply valorant duelist```
+Generate random agent/hero based on role (shorthand):
+```ply [game] [role's initial]
+e.g. ply valorant d```
+Generate random 5 men agent/hero team:
+```ply [game] 5men
+e.g. ply valorant 5men```
+Generate random 5 men agent/hero team (with custom roles):
+```ply [game] 5men [number of roles in order]
+e.g. ply valorant 5men 0122```
